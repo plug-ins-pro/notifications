@@ -51,7 +51,7 @@
             "23.2.0"
          ],
          "plugin": {
-            "internalName": "UNITEDCODES_MESSAGE_ACTIONS",
+            "internalName": "UNITEDCODES_NOTIFICATIONS",
             "type": "dynamic action",
             "demo" : "https://www.plug-ins-pro.com/ords/pluginspro_web/r/pluginspro_free/",
             "previewImage": "https://unitedcodes.s3.eu-west-1.amazonaws.com/plugin/images/UC_NOTIFICATIONS.png"
