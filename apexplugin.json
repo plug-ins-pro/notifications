@@ -1,6 +1,6 @@
 {
    "name": "UC - Notifications",
-   "version": "26.1.0",
+   "version": "26.1.1",
    "description": "Free Plug-in under MIT License, which means it is free for everyone to use, no matter if for commercial or private use. The UC Notifications dynamic action plug-in is built on top of a custom Javascript library and allows you to show success and error messages, as well as additional info and warning message types. It matches the look of native APEX success/error messages, and can be styled to your liking through Themeroller. Using this dynamic action, you can show multiple messages of each type, and customize them by setting their icon, position, how they are dismissed, and more. You can derive the message using static text with substitution support or from a Javascript expression or function. You can use HTML in the message or escape HTML for tighter security.",
    "keywords": [
       "notification",
@@ -56,8 +56,9 @@
          ],
          "plugin": {
             "internalName": "UNITEDCODES_NOTIFICATIONS",
+            "displayName": "UC - Notifications",
             "type": "dynamic action",
-            "demo" : "https://www.united-codes.com/ords/pluginspro_web/r/pluginspro_free/",
+            "demo": "https://www.united-codes.com/ords/pluginspro_web/r/pluginspro_free/",
             "previewImage": "https://unitedcodes.s3.eu-west-1.amazonaws.com/plugin/images/UC_NOTIFICATIONS.png"
          }
       }
